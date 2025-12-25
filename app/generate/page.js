@@ -1,4 +1,3 @@
-// app/generate/page.tsx  (or page.jsx)
 import { Suspense } from 'react';
 import GenerateContent from './GenerateContent';
 
